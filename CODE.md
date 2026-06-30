@@ -10,7 +10,6 @@ Kali VM (192.168.18.136) attacking Win11 host (192.168.18.105)
 ----------------------------------------------------------------
 
 sudo apt update && sudo apt install suricata -y
-
 suricata --version
 
 sudo suricata-update
